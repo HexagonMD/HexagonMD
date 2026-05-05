@@ -1,6 +1,6 @@
 # 森 大地 / Daichi Mori
  
-**AI × Security Engineer**  
+**AI × Security**  
 筑波大学大学院 情報理工学位プログラム M1
  
 ---
