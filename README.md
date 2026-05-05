@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**HexagonMD/HexagonMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 森 大地 / Daichi Mori
+ 
+**AI × Security Engineer**  
+筑波大学大学院 情報理工学位プログラム M1
+ 
+---
+ 
+## Links
+ 
+- [Portfolio](https://www.daichi-mori.net/)
+- [自己紹介スライド](https://speakerdeck.com/hexagonmd/instruction-daichimori)
+- [Qiita](https://qiita.com/HexagonMD)
+- [note](https://note.com/hexa_penta1025)
+---
