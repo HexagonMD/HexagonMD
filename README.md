@@ -8,7 +8,6 @@
 ## Links
  
 - [Portfolio](https://www.daichi-mori.net/)
-- [自己紹介スライド](https://speakerdeck.com/hexagonmd/instruction-daichimori)
 - [Qiita](https://qiita.com/HexagonMD)
 - [note](https://note.com/hexa_penta1025)
 ---
